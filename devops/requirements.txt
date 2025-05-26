@@ -1,0 +1,7 @@
+pyngrok
+vllm
+streamlit
+chromadb
+PyPDF2
+langchain
+chromadb
