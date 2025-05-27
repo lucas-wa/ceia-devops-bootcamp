@@ -4,17 +4,17 @@ Este repositório contém códigos e scripts para o bootcamp de DevOps e NLP, or
 
 ## Estrutura do Repositório
 
-/
-├── nlp/
-│
-├── devops/
-│   ├── ipynb\_tests/
-│   │   └── devops\_test.ipynb
-│   ├── bash\_scripts/
-│   │   ├── deploy.sh
-│   │   ├── setup\_env.sh
-│   │   └── monitor.sh
-│   ├── requirements.txt
+```
+nlp/
+
+devops/
+├── docker/
+├── scripts/
+├── tests/
+├── views/
+└── README.md
+```
+
 
 
 ## Descrição das Pastas
