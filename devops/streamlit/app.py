@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import os
 from PyPDF2 import PdfReader
