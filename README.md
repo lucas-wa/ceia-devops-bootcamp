@@ -1,4 +1,4 @@
-# 🧠 Bootcamp MLOps: Infraestrutura para Inferência de Modelos com Docker e ngrok
+# Bootcamp LLMops: Do Colab à Produção
 
 Este repositório contém os scripts e instruções para configurar uma infraestrutura escalável no Google Cloud Platform (GCP), utilizando Compute Engine, Docker e ngrok, para execução de modelos de linguagem com VLLM e exposição de uma aplicação Streamlit.
 
