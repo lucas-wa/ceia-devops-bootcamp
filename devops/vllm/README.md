@@ -73,7 +73,7 @@ cd vllm
 2. **Construa a imagem Docker para CPU:**
 
 ```bash
-docker build -f Dockerfile.cpu -t vllm-cpu-env --shm-size=4g .
+docker build -f docker/Dockerfile.cpu -t vllm-cpu-env --shm-size=4g .
 ```
 
 > O parâmetro `--shm-size=4g` aloca memória compartilhada suficiente para o modelo. Esse processo pode levar alguns minutos.
